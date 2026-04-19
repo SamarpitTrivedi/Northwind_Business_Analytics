@@ -303,8 +303,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for full guidelines.
 
 ## Maintainer
 
-**[Your Name]**  
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+**Samarpit**  
+[GitHub](https://github.com/SamarpitTrivedi) · [LinkedIn](https://linkedin.com/in/SamarpitTrivedi)
 
 > Built as part of a Data Analyst → Data Scientist transition portfolio. Focused on execution: SQL extraction and Power BI storytelling in one end-to-end project.
 

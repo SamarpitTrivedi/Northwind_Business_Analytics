@@ -1,0 +1,78 @@
+ProductID,ProductName,SupplierID,CategoryID,QuantityPerUnit,UnitPrice,UnitsInStock,UnitsOnOrder,ReorderLevel,Discontinued
+1.00,Chai,1.00,1.00,10 boxes x 20 bags,18.00,39.00,0.00,10.00,0.00
+2.00,Chang,1.00,1.00,24 - 12 oz bottles,19.00,17.00,40.00,25.00,0.00
+3.00,Aniseed Syrup,1.00,2.00,12 - 550 ml bottles,10.00,13.00,70.00,25.00,0.00
+4.00,Chef Anton's Cajun Seasoning,2.00,2.00,48 - 6 oz jars,22.00,53.00,0.00,0.00,0.00
+5.00,Chef Anton's Gumbo Mix,2.00,2.00,36 boxes,21.35,0.00,0.00,0.00,1.00
+6.00,Grandma's Boysenberry Spread,3.00,2.00,12 - 8 oz jars,25.00,120.00,0.00,25.00,0.00
+7.00,Uncle Bob's Organic Dried Pears,3.00,7.00,12 - 1 lb pkgs.,30.00,15.00,0.00,10.00,0.00
+8.00,Northwoods Cranberry Sauce,3.00,2.00,12 - 12 oz jars,40.00,6.00,0.00,0.00,0.00
+9.00,Mishi Kobe Niku,4.00,6.00,18 - 500 g pkgs.,97.00,29.00,0.00,0.00,1.00
+10.00,Ikura,4.00,8.00,12 - 200 ml jars,31.00,31.00,0.00,0.00,0.00
+11.00,Queso Cabrales,5.00,4.00,1 kg pkg.,21.00,22.00,30.00,30.00,0.00
+12.00,Queso Manchego La Pastora,5.00,4.00,10 - 500 g pkgs.,38.00,86.00,0.00,0.00,0.00
+13.00,Konbu,6.00,8.00,2 kg box,6.00,24.00,0.00,5.00,0.00
+14.00,Tofu,6.00,7.00,40 - 100 g pkgs.,23.25,35.00,0.00,0.00,0.00
+15.00,Genen Shouyu,6.00,2.00,24 - 250 ml bottles,15.50,39.00,0.00,5.00,0.00
+16.00,Pavlova,7.00,3.00,32 - 500 g boxes,17.45,29.00,0.00,10.00,0.00
+17.00,Alice Mutton,7.00,6.00,20 - 1 kg tins,39.00,0.00,0.00,0.00,1.00
+18.00,Carnarvon Tigers,7.00,8.00,16 kg pkg.,62.50,42.00,0.00,0.00,0.00
+19.00,Teatime Chocolate Biscuits,8.00,3.00,10 boxes x 12 pieces,9.20,25.00,0.00,5.00,0.00
+20.00,Sir Rodney's Marmalade,8.00,3.00,30 gift boxes,81.00,40.00,0.00,0.00,0.00
+21.00,Sir Rodney's Scones,8.00,3.00,24 pkgs. x 4 pieces,10.00,3.00,40.00,5.00,0.00
+22.00,Gustaf's Knäckebröd,9.00,5.00,24 - 500 g pkgs.,21.00,104.00,0.00,25.00,0.00
+23.00,Tunnbröd,9.00,5.00,12 - 250 g pkgs.,9.00,61.00,0.00,25.00,0.00
+24.00,Guaraná Fantástica,10.00,1.00,12 - 355 ml cans,4.50,20.00,0.00,0.00,1.00
+25.00,NuNuCa Nuß-Nougat-Creme,11.00,3.00,20 - 450 g glasses,14.00,76.00,0.00,30.00,0.00
+26.00,Gumbär Gummibärchen,11.00,3.00,100 - 250 g bags,31.23,15.00,0.00,0.00,0.00
+27.00,Schoggi Schokolade,11.00,3.00,100 - 100 g pieces,43.90,49.00,0.00,30.00,0.00
+28.00,Rössle Sauerkraut,12.00,7.00,25 - 825 g cans,45.60,26.00,0.00,0.00,1.00
+29.00,Thüringer Rostbratwurst,12.00,6.00,50 bags x 30 sausgs.,123.79,0.00,0.00,0.00,1.00
+30.00,Nord-Ost Matjeshering,13.00,8.00,10 - 200 g glasses,25.89,10.00,0.00,15.00,0.00
+31.00,Gorgonzola Telino,14.00,4.00,12 - 100 g pkgs,12.50,0.00,70.00,20.00,0.00
+32.00,Mascarpone Fabioli,14.00,4.00,24 - 200 g pkgs.,32.00,9.00,40.00,25.00,0.00
+33.00,Geitost,15.00,4.00,500 g,2.50,112.00,0.00,20.00,0.00
+34.00,Sasquatch Ale,16.00,1.00,24 - 12 oz bottles,14.00,111.00,0.00,15.00,0.00
+35.00,Steeleye Stout,16.00,1.00,24 - 12 oz bottles,18.00,20.00,0.00,15.00,0.00
+36.00,Inlagd Sill,17.00,8.00,24 - 250 g  jars,19.00,112.00,0.00,20.00,0.00
+37.00,Gravad lax,17.00,8.00,12 - 500 g pkgs.,26.00,11.00,50.00,25.00,0.00
+38.00,Côte de Blaye,18.00,1.00,12 - 75 cl bottles,263.50,17.00,0.00,15.00,0.00
+39.00,Chartreuse verte,18.00,1.00,750 cc per bottle,18.00,69.00,0.00,5.00,0.00
+40.00,Boston Crab Meat,19.00,8.00,24 - 4 oz tins,18.40,123.00,0.00,30.00,0.00
+41.00,Jack's New England Clam Chowder,19.00,8.00,12 - 12 oz cans,9.65,85.00,0.00,10.00,0.00
+42.00,Singaporean Hokkien Fried Mee,20.00,5.00,32 - 1 kg pkgs.,14.00,26.00,0.00,0.00,1.00
+43.00,Ipoh Coffee,20.00,1.00,16 - 500 g tins,46.00,17.00,10.00,25.00,0.00
+44.00,Gula Malacca,20.00,2.00,20 - 2 kg bags,19.45,27.00,0.00,15.00,0.00
+45.00,Røgede sild,21.00,8.00,1k pkg.,9.50,5.00,70.00,15.00,0.00
+46.00,Spegesild,21.00,8.00,4 - 450 g glasses,12.00,95.00,0.00,0.00,0.00
+47.00,Zaanse koeken,22.00,3.00,10 - 4 oz boxes,9.50,36.00,0.00,0.00,0.00
+48.00,Chocolade,22.00,3.00,10 pkgs.,12.75,15.00,70.00,25.00,0.00
+49.00,Maxilaku,23.00,3.00,24 - 50 g pkgs.,20.00,10.00,60.00,15.00,0.00
+50.00,Valkoinen suklaa,23.00,3.00,12 - 100 g bars,16.25,65.00,0.00,30.00,0.00
+51.00,Manjimup Dried Apples,24.00,7.00,50 - 300 g pkgs.,53.00,20.00,0.00,10.00,0.00
+52.00,Filo Mix,24.00,5.00,16 - 2 kg boxes,7.00,38.00,0.00,25.00,0.00
+53.00,Perth Pasties,24.00,6.00,48 pieces,32.80,0.00,0.00,0.00,1.00
+54.00,Tourtière,25.00,6.00,16 pies,7.45,21.00,0.00,10.00,0.00
+55.00,Pâté chinois,25.00,6.00,24 boxes x 2 pies,24.00,115.00,0.00,20.00,0.00
+56.00,Gnocchi di nonna Alice,26.00,5.00,24 - 250 g pkgs.,38.00,21.00,10.00,30.00,0.00
+57.00,Ravioli Angelo,26.00,5.00,24 - 250 g pkgs.,19.50,36.00,0.00,20.00,0.00
+58.00,Escargots de Bourgogne,27.00,8.00,24 pieces,13.25,62.00,0.00,20.00,0.00
+59.00,Raclette Courdavault,28.00,4.00,5 kg pkg.,55.00,79.00,0.00,0.00,0.00
+60.00,Camembert Pierrot,28.00,4.00,15 - 300 g rounds,34.00,19.00,0.00,0.00,0.00
+61.00,Sirop d'érable,29.00,2.00,24 - 500 ml bottles,28.50,113.00,0.00,25.00,0.00
+62.00,Tarte au sucre,29.00,3.00,48 pies,49.30,17.00,0.00,0.00,0.00
+63.00,Vegie-spread,7.00,2.00,15 - 625 g jars,43.90,24.00,0.00,5.00,0.00
+64.00,Wimmers gute Semmelknödel,12.00,5.00,20 bags x 4 pieces,33.25,22.00,80.00,30.00,0.00
+65.00,Louisiana Fiery Hot Pepper Sauce,2.00,2.00,32 - 8 oz bottles,21.05,76.00,0.00,0.00,0.00
+66.00,Louisiana Hot Spiced Okra,2.00,2.00,24 - 8 oz jars,17.00,4.00,100.00,20.00,0.00
+67.00,Laughing Lumberjack Lager,16.00,1.00,24 - 12 oz bottles,14.00,52.00,0.00,10.00,0.00
+68.00,Scottish Longbreads,8.00,3.00,10 boxes x 8 pieces,12.50,6.00,10.00,15.00,0.00
+69.00,Gudbrandsdalsost,15.00,4.00,10 kg pkg.,36.00,26.00,0.00,15.00,0.00
+70.00,Outback Lager,7.00,1.00,24 - 355 ml bottles,15.00,15.00,10.00,30.00,0.00
+71.00,Fløtemysost,15.00,4.00,10 - 500 g pkgs.,21.50,26.00,0.00,0.00,0.00
+72.00,Mozzarella di Giovanni,14.00,4.00,24 - 200 g pkgs.,34.80,14.00,0.00,0.00,0.00
+73.00,Röd Kaviar,17.00,8.00,24 - 150 g jars,15.00,101.00,0.00,5.00,0.00
+74.00,Longlife Tofu,4.00,7.00,5 kg pkg.,10.00,4.00,20.00,5.00,0.00
+75.00,Rhönbräu Klosterbier,12.00,1.00,24 - 0.5 l bottles,7.75,125.00,0.00,25.00,0.00
+76.00,Lakkalikööri,23.00,1.00,500 ml,18.00,57.00,0.00,20.00,0.00
+77.00,Original Frankfurter grüne Soße,12.00,2.00,12 boxes,13.00,32.00,0.00,15.00,0.00
