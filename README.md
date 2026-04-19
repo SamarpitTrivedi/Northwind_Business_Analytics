@@ -257,24 +257,24 @@ mysql -u root -p northwind < sql/upto_q9.sql
 - [ ] Median order value: **$943** | Max: **$16,387**
 
 ###⚙️ Operations
-- [ ] Avg shipping time: 8.49 days (max: **37 days**, significant delay outliers present)
-- [ ] On-time delivery rate: **36% **— indicates the majority of orders are delayed
-- [ ] Slowest shipping countries: Ireland, Sweden, Switzerland (**~10–11 days avg**) — priority for logistics improvement
+- [✅] Avg shipping time: 8.49 days (max: **37 days**, significant delay outliers present)
+- [✅] On-time delivery rate: **36%**— indicates the majority of orders are delayed
+- [✅] Slowest shipping countries: Ireland, Sweden, Switzerland (**~10–11 days avg**) — priority for logistics improvement
 
 ### 👥 Customers
-- [ ] Top customer country: **USA (13 customers)**
-- [ ] Most common Contact Title: **Sales Representative / Owner (tied at 17 each)**
-- [ ] Customers with 10+ orders: **[Count]** — high-value repeat segment
+- [✅] Top customer country: **USA (13 customers)**
+- [✅] Most common Contact Title: **Sales Representative / Owner (tied at 17 each)**
+- [✅] Customers with 10+ orders: **[Count]** — high-value repeat segment
 
 ### 🧑‍💼 Employees
-- [ ] Avg shipping time: **8.5 days** (max 37 days — outliers to investigate)
-- [ ] Top performer by orders handled: **[Employee Name]**
-- [ ] Tenure range: **4.1 – 6.8 years** (stable, long-tenured team)
+- [✅] Avg shipping time: **8.5 days** (max 37 days — outliers to investigate)
+- [✅] Top performer by orders handled: **[Employee Name]**
+- [✅] Tenure range: **4.1 – 6.8 years** (stable, long-tenured team)
 
 ### 🏭 Suppliers
-- [ ] USA leads supplier count (4), followed by Germany and France (3 each)
-- [ ] Highest avg product price supplier: **Aux joyeux ecclésiastiques ($140.75 avg)**
-- [ ] Most product-dense category: **Confections (13 products)**
+- [✅] USA leads supplier count (4), followed by Germany and France (3 each)
+- [✅] Highest avg product price supplier: **Aux joyeux ecclésiastiques ($140.75 avg)**
+- [✅] Most product-dense category: **Confections (13 products)**
 
 ---
 
