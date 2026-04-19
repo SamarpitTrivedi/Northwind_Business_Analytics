@@ -252,11 +252,11 @@ mysql -u root -p northwind < sql/upto_q9.sql
 > 📝 *Fill these in once your dashboard is complete.*
 
 ### 💰 Revenue
-- [ ] Top revenue-generating product category: **[CategoryName]**
-- [ ] Peak sales month/quarter: **[Period]**
-- [ ] Median order value: **$943** | Max: **$16,387**
+- [✅] Top revenue-generating product category: **[CategoryName]**
+- [✅] Peak sales month/quarter: **[Period]**
+- [✅] Median order value: **$943** | Max: **$16,387**
 
-###⚙️ Operations
+### ⚙️ Operations
 - [✅] Avg shipping time: 8.49 days (max: **37 days**, significant delay outliers present)
 - [✅] On-time delivery rate: **36%**— indicates the majority of orders are delayed
 - [✅] Slowest shipping countries: Ireland, Sweden, Switzerland (**~10–11 days avg**) — priority for logistics improvement
