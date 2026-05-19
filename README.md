@@ -9,7 +9,7 @@
 
 **A full-stack Business Intelligence report covering sales performance, customer behaviour, supplier pricing, shipping operations, and employee analytics — built on the Northwind Traders dataset.**
 
-[📄 View Full Report](./Business%20Report/Northwind_Business_Report.pdf) · [💼 Portfolio](https://samarpit-portfolio.vercel.app/) · [🔗 LinkedIn](https://linkedin.com/in/samarpittrivedi/) · [🐙 GitHub](https://github.com/SamarpitTrivedi)
+[📄 View Full Report](https://drive.google.com/file/d/1Z6T28I5DLlyTcRupQYu-TqYtorAmBhUG/view?usp=drive_link) · [💼 Portfolio](https://samarpit-portfolio.vercel.app/) · [🔗 LinkedIn](https://linkedin.com/in/samarpittrivedi/) · [🐙 GitHub](https://github.com/SamarpitTrivedi)
 
 </div>
 
